@@ -1,7 +1,9 @@
-<img src="https://camo.githubusercontent.com/3b6ac7ffce4ad464299706cc72944505ebddf31912e2d3af4d996858e2915d37/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067"  width="1400" height="500" />
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://sharru.io)
+
+<!-- <img src="https://camo.githubusercontent.com/3b6ac7ffce4ad464299706cc72944505ebddf31912e2d3af4d996858e2915d37/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067"  width="1400" height="500" />  -->
 <h1 align="center">Hi 👋, I'm Sharvay Chavan</h1>
 
-<img align="right" alt="Coding" width="300" height="350" src="https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif?cid=95b27944t5mwbiqx03kdgkpopc074lmrl3b3gcyo8qoylksj&ep=v1_gifs_gifId&rid=200.gif&ct=g">
+<img align="right" alt="Coding" width="350" height="370" src="https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif?cid=95b27944t5mwbiqx03kdgkpopc074lmrl3b3gcyo8qoylksj&ep=v1_gifs_gifId&rid=200.gif&ct=g">
 
 
 - 👨🏼‍💻 Aspiring Data Scientist and Machine Learning Engineer.
