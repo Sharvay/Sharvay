@@ -8,7 +8,7 @@
 
 - 👨🏼‍💻 Aspiring Data Scientist and Machine Learning Engineer.
 
-- 💼 I’m currently working as Junio Consultant - Analytics at TIBCO Software.
+- 💼 I’m currently working as Junior Consultant - Analytics at TIBCO Software.
 
 - 📈 I am working in Analytics and Insights team.
 
